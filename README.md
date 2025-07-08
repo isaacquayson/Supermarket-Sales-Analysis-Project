@@ -81,3 +81,32 @@ This project focuses on end-to-end data analysis of a supermarket's sales record
 - Expand with Power BI or Python visualizations.
 - Build predictive models for demand and segmentation.
 - Automate dashboard updates with real-time data.
+
+---
+
+## Key Findings & Insights
+
+1. **Top Product Category**: The most purchased items belonged to the `Beverages` and `Snacks` categories, accounting for a large portion of total revenue.
+2. **Customer Demographics**: Female customers slightly outpaced males in overall sales volume, but men had a higher average purchase value.
+3. **Location Trends**: The `Accra` branch generated the highest revenue, followed by `Kumasi`, while `Tamale` recorded fewer transactions.
+4. **Peak Sales Periods**: The highest sales volume occurred in December, indicating strong seasonal trends that align with festive shopping behavior.
+5. **Payment Preferences**: `Cash` was the most used payment method, suggesting potential gaps in card or digital payment adoption.
+6. **Average Order Value (AOV)**: The average customer spent approximately **GHS 115–125** per transaction.
+
+---
+
+## Recommendations
+
+1. **Boost Inventory for Top Products**: Ensure sufficient stock of high-performing items, especially in Beverages and Snacks.
+2. **Target High-Value Customers**: Design marketing campaigns targeting male customers with premium product bundles, given their higher average order value.
+3. **Digital Payment Promotion**: Encourage the use of non-cash payment methods via incentives or awareness campaigns.
+4. **Holiday Sales Strategy**: Plan marketing and inventory strategies ahead of the festive season (October–December).
+5. **Branch-Specific Strategy**: Investigate reasons behind lower sales in Tamale and explore localized promotions or partnerships.
+6. **Customer Loyalty Program**: Implement reward systems to retain high-spending and repeat customers.
+
+---
+
+## Future Improvements
+- Expand with Power BI or Python visualizations.
+- Build predictive models for demand and segmentation.
+- Automate dashboard updates with real-time data.
